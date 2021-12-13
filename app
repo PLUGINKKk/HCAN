@@ -1,1 +1,1 @@
-[{"hkey":"hcan","bk":"title","pt":"DOWNLOAD NOW","kl":"https://www.youtube.com/watch?v=k2a27gnrgr4&list=RDEMqvqRf9yDInRHlZfpft9nfA&index=1","tt":"about","up":"hc"}]
+[{"hkey":"hcan1","bk":"NEW UPDATE","pt":"DOWNLOAD NOW","kl":"https://www.mediafire.com/file/vt4p2c66usqr1b0/HCAN.apk/file","tt":"NEW UPDATE မှာ Error အများကြီး Fix ထားပါတယ်နော်","up":"hc"}]
